@@ -5,7 +5,7 @@
 ## 🔧 Tech Stack
 - **Frontend:** HTML, CSS, JavaScript
 - **Backend:** PHP
-- **Database:** MySQL (or specify your DB if different)
+- **Database:** MySQL
 - **Hosting:** Works on standard LAMP/XAMPP environments
 
 ## 🚀 Features
